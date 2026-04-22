@@ -1,0 +1,1 @@
+alert("Välkommen till min sida om mina toppband!")

@@ -17,7 +17,7 @@ img {
 }
 /* Sidan */
 body {
-    background-image: url(https://scontent-arn2-1.xx.fbcdn.net/v/t39.30808-6/484542035_1282281913465307_1900138735796296101_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=2a1932&_nc_ohc=kXB0_CpgyZgQ7kNvwGgDU1d&_nc_oc=AdpgvNaf8mpKVQQ4NX3kfRhtAE4LFinifIQWuGYAY1Nj9vv9vw9HdThg4Aj1MbwGlv4&_nc_zt=23&_nc_ht=scontent-arn2-1.xx&_nc_gid=EezAgZpfnX22Ef-EVY_q6Q&_nc_ss=7a389&oh=00_Af0D4BK8Eh83nKgCDmv-K7xeEpZsIHIocw5bobKKTki-5w&oe=69EE6648);
+    background-image: url(https://www.afm-records.com/cdn/shop/articles/SL45news_video.jpg?v=1737050876&width=1920  );
     background-size: cover;
     background-attachment: fixed;
 }
@@ -42,7 +42,7 @@ header {
 header h1 {
     font-family: "Fugaz One", sans-serif;
     font-size: 60px;
-    color: #fff;
+    color: #000;
 }
 header nav {
     background: linear-gradient(to bottom, #4c4c4c 0%,#595959 12%,#666666 25%,#474747 39%,#2c2c2c 50%,#000000 51%,#111111 60%,#2b2b2b 76%,#1c1c1c 91%,#131313 100%);
